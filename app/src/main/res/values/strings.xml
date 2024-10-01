@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lifespan QR</string>
+    <string name="tab_home">ingredient list</string>
+    <string name="tab_list">history</string>
+    <string name="expiring_soon">Expiring soon</string>
+    <string name="empty_expiring_soon">No ingredients expiring soon</string>
+    <string name="action_capture">CAPTURE</string>
+    <string name="action_scan">SCAN</string>
+    <string name="preferences">Delete all ingredients</string>
+    <string name="today">today</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="expired">Expired</string>
+    <string name="empty_expired">No expired ingredients :)</string>
+    <string name="web_client_id">916819486923-mvl9gi6dv6gjrk5v95sd80kn22ddjl7c.apps.googleusercontent.com</string>
+</resources>

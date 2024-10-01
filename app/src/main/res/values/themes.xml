@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="RippleColor">
+        <item name="colorControlHighlight">?attr/lightColor</item>
+    </style>
+
+    <style name="rv_theme">
+        <item name="android:theme">@style/RippleColor</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Mint" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="barelyThereColor">@color/mint_20</item>
+        <item name="superLightColor">@color/mint_50</item>
+        <item name="lightColor">@color/mint_100</item>
+        <item name="colorPrimary">@color/mint_500</item>
+        <item name="colorPrimaryVariant">@color/mint_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/mint_200</item>
+        <item name="colorSecondaryVariant">@color/mint_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="Theme.Mango" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.Blackcurrant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+</resources>

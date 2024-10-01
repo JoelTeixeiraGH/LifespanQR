@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916819486923",
+    "firebase_url": "https://lifespantag-299922-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lifespantag-299922",
+    "storage_bucket": "lifespantag-299922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916819486923:android:4c10c0d9740cd43499134e",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.lifespantag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916819486923-8guq0hl1a5qogguo34kgrr335vv8d593.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ipp.estg.lifespantag",
+            "certificate_hash": "8f4eb8abf743a3d086a6a8fd44e4abaee7019613"
+          }
+        },
+        {
+          "client_id": "916819486923-buoo332lvmv1cvouq3ejasv1mrf1c278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvocdRH0rvzv6KZG-M45cmavj2D6WICE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916819486923-buoo332lvmv1cvouq3ejasv1mrf1c278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
